@@ -43,7 +43,7 @@ if (isset($_POST['apod_date'])) {
                         color: white;
                         padding: 50px;
                         text-shadow: 2px 2px 8px #000;
-                        height: 80dvh;
+                        height: 85dvh;
                     }
                     .nasa-form {
                         display: flex;
